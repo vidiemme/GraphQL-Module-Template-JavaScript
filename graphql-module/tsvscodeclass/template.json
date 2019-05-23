@@ -1,0 +1,59 @@
+{
+    "name" : "GraphQL API Module",
+    "description" : "New GraphQL API Module",
+    "defaultName" : "Module",
+    "sortOrder" : "1",
+    "category" : "GraphQL-JS",
+    "iconLight" : "Logo.svg",
+    "iconDark" : "Logo.svg",
+    "elements" : [
+    	{
+            "fileName" : "Module.js",
+            "targetName" : "$itemname$.js",
+            "replaceParameters" : true,
+            "open" : true
+        },
+        {
+            "fileName" : "Module.graphql",
+            "targetName" : "$itemname$.graphql",
+            "replaceParameters" : true,
+            "open" : false
+        },
+        {
+            "fileName" : "ModuleConnector.js",
+            "targetName" : "$itemname$Connector.js",
+            "replaceParameters" : true,
+            "open" : false
+        },
+        {
+            "fileName" : "ModuleDataHandler.js",
+            "targetName" : "$itemname$DataHandler.js",
+            "replaceParameters" : true,
+            "open" : false
+        },
+        {
+            "fileName" : "ModuleDataProvider.js",
+            "targetName" : "$itemname$DataProvider.js",
+            "replaceParameters" : true,
+            "open" : false
+        },
+        {
+            "fileName" : "MockModuleConnector.js",
+            "targetName" : "Mock$itemname$Connector.js",
+            "replaceParameters" : true,
+            "open" : false
+        },
+        {
+            "fileName" : "MockModuleDataHandler.js",
+            "targetName" : "Mock$itemname$DataHandler.js",
+            "replaceParameters" : true,
+            "open" : false
+        },
+        {
+            "fileName" : "testModule.js",
+            "targetName" : "test$itemname$.js",
+            "replaceParameters" : true,
+            "open" : false
+        }
+    ]
+}

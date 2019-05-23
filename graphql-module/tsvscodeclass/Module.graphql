@@ -1,0 +1,7 @@
+type Query {
+	#Add here Queries
+}
+
+type Mutation {
+	#Add here Mutations
+}
