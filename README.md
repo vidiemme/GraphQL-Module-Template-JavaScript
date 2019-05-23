@@ -40,7 +40,7 @@ Each module is composed of multiple components, each component follows the singl
 
 # License
 
-Copyright (c) 2019-2022 Vidiemme SRL https://vidiemme.it 
+Copyright (c) 2019-2022 Vidiemme Consulting SRL https://vidiemme.it 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
